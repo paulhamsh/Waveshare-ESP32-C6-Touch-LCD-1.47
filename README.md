@@ -11,8 +11,8 @@ Install the correct libraries
 | lvgl                   	|	8.4.0   |    
 
 
-Wiki:           https://www.waveshare.com/wiki/ESP32-C6-Touch-LCD-1.47    
-Demo programs:  https://files.waveshare.com/wiki/ESP32-C6-Touch-LCD-1.47/ESP32-C6-Touch-LCD-1.47-Demo.zip   
+Wiki: https://www.waveshare.com/wiki/ESP32-C6-Touch-LCD-1.47    
+Demo programs: https://files.waveshare.com/wiki/ESP32-C6-Touch-LCD-1.47/ESP32-C6-Touch-LCD-1.47-Demo.zip   
  
 Copy ```demos``` and ```examples``` folders into ```libraries\lvgl\src```   
 Copy ```lv_conf.h``` to ```libraries\lvgl```   
