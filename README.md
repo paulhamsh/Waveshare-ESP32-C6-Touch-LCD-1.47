@@ -4,10 +4,11 @@ Examples for Waveshare ESP32-C6-Touch-LCD-1.47
 ## For LGVL demo program
 Install the correct libraries
 
-|--------|-----------|   
-| FastIMU | 1.2.8 |    
-| GFX_Library_for_Arduino	| 1.6.0 |   
-| lvgl	|		8.4.0  |    
+|  Library                | Version |
+|-------------------------|---------|   
+| FastIMU                 | 1.2.8   |    
+| GFX_Library_for_Arduino	| 1.6.0   |   
+| lvgl                   	|	8.4.0   |    
 
 
 https://www.waveshare.com/wiki/ESP32-C6-Touch-LCD-1.47
